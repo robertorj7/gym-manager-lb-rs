@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "http://google.com",
+      "name": "instructor 2",
+      "email": "8@uol.com.br",
+      "birth": 253392451200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "88",
+      "height": "188",
+      "id": 1
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Ricardo",
+      "email": "ric@uol.com.br",
+      "birth": 503193600000,
+      "gender": "M",
+      "blood": "B-",
+      "weight": "88",
+      "height": "185",
+      "id": 2
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "editado",
+      "birth": 1587513600000,
+      "gender": "F",
+      "services": "Crossfit",
+      "created_at": 1586595185878
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "instrutor 10",
+      "birth": 579398400000,
+      "gender": "M",
+      "services": "Crossfit, Bike",
+      "created_at": 1586636676868
+    }
+  ]
+}
